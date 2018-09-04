@@ -1,2 +1,2 @@
-# R_Diary
+### R-Diary
 Contains R code for practice. 
