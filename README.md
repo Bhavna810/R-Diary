@@ -1,2 +1,2 @@
 # R_Diary
-Contains R code.
+Contains R code for practice. 
